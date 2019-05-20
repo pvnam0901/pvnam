@@ -2,37 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b1389e3-4b37-4bef-98c9-4a493be0fed4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/015.javascrip/case1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/015.javascrip/case1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/015.javascrip/case2/acsset/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/015.javascrip/case2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/015.javascrip/case3/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/015.javascrip/case3/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/015.javascrip/case4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017/thuchanh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/018/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020.layout/html4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020.layout/html5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/021.block/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/022/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/margin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/margin/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/margin/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/margin/normalize.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/margin/padding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/padding/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/padding/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heightwidth/index1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/014.images/case2/asset/images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/014.images/case2/asset/images/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/019.form/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/019.form/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/padding/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/padding/index2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -48,17 +40,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/padding/index1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            <state relative-caret-position="270">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/padding/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/padding/index2.html">
+        <entry file="file://$PROJECT_DIR$/heightwidth/index1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="1203">
+              <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -124,6 +125,7 @@
         <option value="$PROJECT_DIR$/margin/padding.html" />
         <option value="$PROJECT_DIR$/padding/index1.html" />
         <option value="$PROJECT_DIR$/padding/index2.html" />
+        <option value="$PROJECT_DIR$/heightwidth/index1.html" />
       </list>
     </option>
   </component>
@@ -151,6 +153,11 @@
               <item name="nam" type="b2602c69:ProjectViewProjectNode" />
               <item name="nam" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="nam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nam" type="462c0819:PsiDirectoryNode" />
+              <item name="heightwidth" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -172,7 +179,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -182,18 +189,18 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\nam\014.images\case2" />
+      <recent name="C:\Program Files\nam\014.images\case2\asset\images" />
+      <recent name="C:\Program Files\nam\012.csss\abc" />
+      <recent name="C:\Program Files\nam\012.csss\abc\xyz" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Program Files\nam\015.javascrip\case2" />
       <recent name="C:\Program Files\nam\015.javascrip\case2\acsset\js" />
       <recent name="C:\Program Files\nam\015.javascrip\case3" />
       <recent name="C:\Program Files\nam\014.images\case2\asset\images" />
       <recent name="C:\Program Files\nam\014.images\case2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Program Files\nam\014.images\case2" />
-      <recent name="C:\Program Files\nam\014.images\case2\asset\images" />
-      <recent name="C:\Program Files\nam\012.csss\abc" />
-      <recent name="C:\Program Files\nam\012.csss\abc\xyz" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,7 +232,9 @@
       <workItem from="1558015435046" duration="1342000" />
       <workItem from="1558031415901" duration="2558000" />
       <workItem from="1558350117865" duration="1477000" />
-      <workItem from="1558351789747" duration="656000" />
+      <workItem from="1558351789747" duration="889000" />
+      <workItem from="1558352873223" duration="14000" />
+      <workItem from="1558352905064" duration="199000" />
     </task>
     <task id="LOCAL-00001" summary="adsdadad">
       <created>1557146479373</created>
@@ -262,16 +271,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557750599833</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hihihi">
+      <created>1558352458650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558352458650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31953000" />
+    <option name="totallyTimeSpent" value="32399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16490166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16944024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -289,7 +306,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,13 +591,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS" />
-    <entry file="file://$PROJECT_DIR$/margin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/margin/index2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
@@ -602,9 +612,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/padding.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/padding.html" />
     <entry file="file://$PROJECT_DIR$/margin/padding.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
@@ -612,17 +620,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/margin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/padding/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="270">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/padding/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="1260">
+          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heightwidth/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1203">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
         </state>
       </provider>
     </entry>
